@@ -13,3 +13,5 @@ Web-Chat is a fun and interactive chat platform! Connect with friends, family, o
 📱 Responsive Design: Chat on your phone, tablet, or computer – it’s all good! 💻📲
 
 🎨 Customizable Themes: Make it yours! Choose your favorite look. 🎨🖌️
+
+![1](https://github.com/Esanka96/Web-Chat/assets/121968404/76c0e454-b3a4-4c98-a6cb-6aa1a7859719)
