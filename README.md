@@ -1,10 +1,10 @@
-#🌟 Web-Chat 🌟
+🌟 Web-Chat 🌟
 
 👋 Welcome to Web-Chat!
 
 Web-Chat is a fun and interactive chat platform! Connect with friends, family, or colleagues and enjoy seamless conversations. 💬✨
 
-##🚀 Key Features
+🚀 Key Features
 
 🔴 Real-time Messaging: Instant communication, as fast as your fingers can type!
 
